@@ -1,0 +1,15 @@
+Untuk file csv tidak bisa disertakan di repositori ini karena kapasitasnya tidak memenuhi kriteria Github.
+File csv pada folder steam-store-games dapat di download di 
+https://www.kaggle.com/nikdavis/steam-store-games
+
+
+>> Isi folder untuk Final_Project_1_(have_presented) >>
+- File notebook harus dibuka berurutan mulai dari file Project_Steam-Store-Games_1.ipnyb, lanjut ke file Project_Steam-Store-Games_2.ipnyb dan terakhir file Project_Steam-Store-Games_3.ipnyb.
+- Setelah file dijalankan keseluruhan Project_Steam-Store-Games_1.ipnyb akan membuat file dataset baru bernama Steam_Store_2.csv yang akan dipakai di file Project_Steam-Store-Games_2.ipnyb.
+- Setelah file dijalankan keseluruhan Project_Steam-Store-Games_2.ipnyb akan membuat file dataset baru bernama Steam_Store_3.csv yang akan dipakai di file Project_Steam-Store-Games_3.ipnyb dan juga dashnya.
+
+
+>> Isi folder untuk Final_Project_2_(revision_after_presented) >>
+- File notebook harus dibuka berurutan mulai dari file Steam_Notebook_1.ipnyb dan kemudian lanjut ke file Steam_Notebook_2.ipnyb.
+Untuk dash masih belum diupdate setalah dipresentasikan.
+- Setelah file dijalankan keseluruhan Steam_Notebook_1.ipnyb akan membuat file dataset baru bernama Steam_Store.csv yang akan dipakai di file Project_Steam-Store-Games_3.ipnyb dan juga dashnya.
